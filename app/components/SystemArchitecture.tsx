@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { title } from 'process';
+// import { title } from 'process';
 
 export default function SystemArchitecture() {
 	return (

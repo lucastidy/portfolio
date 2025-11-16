@@ -28,7 +28,7 @@ export default function HeroSection() {
 						<p className="text-green-600 dark:text-green-500 mt-2 mb-2">$ about --me</p>
 						<p className="text-gray-600 dark:text-gray-400 mb-2">Third-year Computer Engineering student at UBC with interests 
 							spanning embedded systems, digital design, and full-stack development. I enjoy tackling problems across 
-							the hardware-software stack. Whether it's designing PCBs and writing firmware in C, 
+							the hardware-software stack. Whether it&apos;s designing PCBs and writing firmware in C, 
 							implementing digital logic on FPGAs, or building cloud-based web applications.
 							Currently diving deeper into FPGA verification, learning UVM and applying it to 
 							past and current personal projects. 
