@@ -47,7 +47,7 @@ const metadata: Metadata = {
 	openGraph: {
 		title: '[Lucas Tidy] - Portfolio',
 		description: 'Passionate computer engineering student with a keen interest in embedded systems, digital design, and full-stack development. Explore my projects and skillset.',
-		url: 'https://your-domain.com',
+		url: 'https://portfolio-lt.vercel.app/',
 		siteName: '[Lucas Tidy] - Portfolio',
 		images: [
 			{

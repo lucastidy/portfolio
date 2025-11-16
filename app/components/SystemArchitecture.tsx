@@ -86,6 +86,7 @@ export default function SystemArchitecture() {
 								<img
 									src={project.image}
 									alt=""
+									aria-hidden="true"
 									className="block h-auto object-contain max-w-[90%] sm:max-w-[80%] md:max-w-[50%] lg:max-w-[50%] xl:max-w-[60%]"
 								/>
 								</div>
