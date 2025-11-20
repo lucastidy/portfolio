@@ -10,6 +10,9 @@ const metadata: Metadata = {
 	title: '[Lucas Tidy] - Computer Engineering Student',
 	description:
 		'Welcome to my portfolio! I am a passionate computer engineering student with a keen interest in embedded systems, digital design, and full-stack development. Explore my projects and skills.',
+	verification: {
+		google: 'FhG5PJgR2DpR8xG0s-LCqtCu8CptA6JqvneZq-NrWMs',
+	},
 	keywords: [
 		'Backend Developer',
 		'Hardware Engineer',
@@ -47,7 +50,7 @@ const metadata: Metadata = {
 	openGraph: {
 		title: '[Lucas Tidy] - Portfolio',
 		description: 'Passionate computer engineering student with a keen interest in embedded systems, digital design, and full-stack development. Explore my projects and skillset.',
-		url: 'https://portfolio-lt.vercel.app/',
+		url: 'https://lucastidy.vercel.app/',
 		siteName: '[Lucas Tidy] - Portfolio',
 		images: [
 			{
