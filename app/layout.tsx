@@ -11,7 +11,7 @@ const metadata: Metadata = {
 	description:
 		'Welcome to my portfolio! I am a passionate computer engineering student with a keen interest in embedded systems, digital design, and full-stack development. Explore my projects and skills.',
 	verification: {
-		google: 'FhG5PJgR2DpR8xG0s-LCqtCu8CptA6JqvneZq-NrWMs',
+		google: 'I8qaiWiFbGH6VzKdJrhY_o9ff9h40aigbrM--YQRV_Q',
 	},
 	keywords: [
 		'Backend Developer',
@@ -50,7 +50,7 @@ const metadata: Metadata = {
 	openGraph: {
 		title: '[Lucas Tidy] - Portfolio',
 		description: 'Passionate computer engineering student with a keen interest in embedded systems, digital design, and full-stack development. Explore my projects and skillset.',
-		url: 'https://lucastidy.vercel.app/',
+		url: 'https://lucastidy.com',
 		siteName: '[Lucas Tidy] - Portfolio',
 		images: [
 			{
